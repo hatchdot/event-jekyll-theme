@@ -6,7 +6,7 @@ url: "hatch.ga" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-facebook:
+twitter:
   app_id: 
 
 logo: "../css/2016_style/img/icon-large.png"
@@ -17,7 +17,7 @@ social: twitter
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2016_pages', '_2017_pages']
+include: []
 
 plugins:
   - jekyll-sitemap
